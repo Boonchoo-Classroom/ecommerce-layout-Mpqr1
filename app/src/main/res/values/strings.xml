@@ -2,4 +2,5 @@
     <string name="app_name">E Commerce Layout Assignment</string>
     <string name="navigation_drawer_open">Open</string>
     <string name="navigation_drawer_close">Close</string>
+    <string name="product_image_desc">รูปภาพของสินค้า</string>
 </resources>
